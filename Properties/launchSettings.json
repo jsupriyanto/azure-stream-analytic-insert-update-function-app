@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "azure_stream_analytic_insert_update_function_app": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7216",
+      "launchBrowser": false
+    }
+  }
+}
